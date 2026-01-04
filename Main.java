@@ -1066,6 +1066,6 @@ public class Main extends JPanel implements ActionListener, KeyListener, Compone
         frame.setResizable(true);
 
         frame.setVisible(true);
-        game.showMenu();
+        game.showMenu();    
     }
 }
